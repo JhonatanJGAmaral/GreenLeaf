@@ -11,9 +11,9 @@ Pedro Henrique Garcia Silveira, RA: 191046 <br>
 E-commerce de vegetais.
 
 ## 📱 Configurações para rodar o app <br>
-### Configurações globais <br><br>
+### * Configurações globais <br>
 No terminal, utilize o comando **yarn** ou o **npm install** para instalar as dependências do projeto. <br>
-### Configurações do banco de dados <br><br>
+### * Configurações do banco de dados <br>
 Atribua o hostname da sua máquina à chave "Server".<br><br>
 <img src="./src/assets/db_config.png" alt="DB Config"> <br>
 
