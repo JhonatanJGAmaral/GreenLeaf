@@ -1,0 +1,22 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+GreenLeaf.API/GreenLeaf/.vs/GreenLeaf.API/DesignTimeBuild/.dtbcache.v2
+GreenLeaf.API/GreenLeaf/.vs/GreenLeaf.API/v16/.suo
+GreenLeaf.API/GreenLeaf.DataAccess/obj/Debug/net5.0/GreenLeaf.DataAccess.assets.cache
+GreenLeaf.API/GreenLeaf.DataAccess/obj/Debug/net5.0/GreenLeaf.DataAccess.csproj.AssemblyReference.cache
+GreenLeaf.API/GreenLeaf.DataAccess/obj/Debug/net5.0/GreenLeaf.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+GreenLeaf.API/GreenLeaf.DataAccess/obj/Debug/net5.0/GreenLeaf.DataAccess.assets.cache
+GreenLeaf.API/GreenLeaf.DataAccess/obj/Debug/net5.0/GreenLeaf.DataAccess.csproj.AssemblyReference.cache
+GreenLeaf.API/GreenLeaf.DataAccess/obj/Debug/net5.0/GreenLeaf.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
