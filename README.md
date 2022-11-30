@@ -11,11 +11,10 @@ Pedro Henrique Garcia Silveira, RA: 191046 <br>
 E-commerce de vegetais.
 
 ## 📱 Configurações para rodar o app <br>
-### Configurações do app <br><br>
 No terminal, utilize o comando **yarn** ou o **npm install** para instalar as dependências do projeto. <br>
 ### Configurações do banco de dados <br><br>
+Atribua o hostname da sua máquina à chave "Server".<br>
 <img src="./src/assets/db_config.png" alt="DB Config"> <br>
-Atribua o hostname da sua máquina à chave "Server".
 
 ## ⚙️ Como utilizar
 
@@ -31,12 +30,3 @@ O aplicativo pode ser executado através da leitura do QR Code pelo celular (exe
 Utilize o comando **dotnet run** no terminal para iniciar o back-end.
 
 
-
-
-
-
-
-
-### Tela de login <br><br>
-
-<img src="./assets/tela2.jpeg" alt="tela2">
