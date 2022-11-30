@@ -1,6 +1,4 @@
-# 🏋️ Master Gym
-
-Aplicativo de academia desenvolvido com [NodeJs](https://nodejs.org/en/) e [React-Native](https://reactnative.dev/).
+# 🍃 GreenLeaf
 
 ## 👥 Integrantes
 Daniel de Lima Ferreira, RA: 200010 <br>
